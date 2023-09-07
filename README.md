@@ -1,3 +1,11 @@
+
+![Screenshot_2023-09-07-14-03-30-96](https://github.com/yug20/Spotify-music/assets/110123287/05761e0e-5991-48e4-b4a4-fa1ee30656db)
+![Screenshot_2023-09-07-14-03-34-81](https://github.com/yug20/Spotify-music/assets/110123287/37fb8efc-eaae-4962-ac0c-efe20cdf4c3e)
+![Screenshot_2023-09-07-14-03-38-77](https://github.com/yug20/Spotify-music/assets/110123287/0f89cbe9-3d38-4af0-bcd7-f002b2e04429)
+![Screenshot_2023-09-07-14-03-41-98](https://github.com/yug20/Spotify-music/assets/110123287/5ad89d7f-cc29-4522-8c79-6f5e82e603ac)
+![Screenshot_2023-09-07-14-03-46-44](https://github.com/yug20/Spotify-music/assets/110123287/dd2f2527-9ade-4e77-b470-b6696fa9a3ae)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
